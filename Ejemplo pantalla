@@ -1,0 +1,14 @@
+Ingrese un valor:  4
+Ingrese un segundo valor:  5
+
+La suma de 4 + 5 es =  9
+La resta de 4 - 5 es =  -1
+La resta de 5 - 4 es =  1
+El resto de la division entera entre 4 y 5 es =  4
+
+Es 4 menor que  5 ? :  1
+
+(Tomar 0 como FALSO, y 1 como VERDADERO)
+
+Process returned 0 (0x0)   execution time : 7.524 s
+Press any key to continue.
