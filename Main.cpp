@@ -1,3 +1,7 @@
+//TP #1, uso de variables y valores
+//Juan M. Altamirano / K1051 / Leg: 1539565
+//12/04/2015
+
 #include <iostream>
 
 using namespace std;
