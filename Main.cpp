@@ -43,14 +43,14 @@ int main()
     cout << ">> Es " << b << " menor que " << boolalpha << a << " ? :  " << !c << endl;
     cout << endl << endl << "--------------------------------------------------------------------" << endl;
 
-    cout << "Ingrese un valor:  ";
+    cout << endl << "Ingrese un valor:  ";
     cin >> d;
     cout << "Ingrese un segundo valor:  ";
     cin >> f;
     g = d/f;
     h = f/d;
     cout << endl << ">> El resultado de la division entre " << d << " y " << f << " es:  " << g << endl;
-    cout << endl << ">> El resultado de la division entre " << f << " y " << d << " es:  " << h << endl;
+    cout << ">> El resultado de la division entre " << f << " y " << d << " es:  " << h << endl;
     cout << endl << endl << "--------------------------------------------------------------------" << endl;
 
     cout << endl << "Ingrese la primera letra de su nombre:  ";
