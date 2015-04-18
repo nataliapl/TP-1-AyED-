@@ -1,14 +1,42 @@
-Ingrese un valor:  4
-Ingrese un segundo valor:  5
+Ingrese un valor:  45
+Ingrese un segundo valor:  54
 
-La suma de 4 + 5 es =  9
-La resta de 4 - 5 es =  -1
-La resta de 5 - 4 es =  1
-El resto de la division entera entre 4 y 5 es =  4
+>> La suma de 45 + 54 es =  99
+>> La resta de 45 - 54 es =  -9
+>> La resta de 54 - 45 es =  9
+>> El resto de la division entera entre 45 y 54 es =  45
 
-Es 4 menor que  5 ? :  1
+>> Es 45 menor que  54 ? :  true
+>> Es 54 menor que  45 ? :  false
 
-(Tomar 0 como FALSO, y 1 como VERDADERO)
 
-Process returned 0 (0x0)   execution time : 7.524 s
+-----------------------------------------------------------------------
+
+Ingrese un valor:  45
+Ingrese un segundo valor:  54
+
+>> El resultado de la division entre 45 y 54 es:  0.833333
+>> El resultado de la division entre 54 y 45 es:  1.2
+
+
+-----------------------------------------------------------------------
+
+Ingrese la primera letra de su nombre:  J
+Ingrese la primera letra de su apellido:  A
+
+>> Sus iniciales son:  JA
+
+
+-----------------------------------------------------------------------
+
+Ingrese su primer nombre:  Juan
+Ingrese su apellido: Altamirano
+
+>> Su nombre contiene 14 letras
+
+
+-----------------------------------------------------------------------
+
+
+Process returned 0 (0x0)   execution time : 15.330 s
 Press any key to continue.
